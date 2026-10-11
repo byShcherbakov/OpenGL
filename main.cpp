@@ -243,6 +243,7 @@ int main() {
     glDeleteVertexArrays(1, &vao2);
     glDeleteVertexArrays(1, &vao3);
 
+
     glfwTerminate();
 
     return 0 ;
